@@ -29,6 +29,10 @@ pip install -r requirements.txt
 email = "mail@lewenbo.com"
 pwd = "password"
 
+5. Modify in config.py the chromedriver file location as a string type variable:
+
+chromedriver =" "
+
 Excecution:
 
 Go to main.py and execute the script
