@@ -81,24 +81,6 @@ chromedriver --version
 
 # Should return: ChromeDriver 140.0.7339.82
 
-🏗️ Project Structure
-text
-simplepractice_exam/
-├── Project/
-│   ├── pages/          # Classmethods
-│   │  └── __init__.py
-│   │  └── login.py
-│   │  └── task.py
-│   ├── test/           # testcase
-│   │  └── test_all.py
-│   ├── utils/
-│   │  └── __init__.py
-│   │  └── config.py    # Configuration settings
-│   ├── main.py         # Main execution script
-├── requirements.txt    # Python dependencies
-└── README.md
-
-
 🎯 Execution
 Run the automation script:
 
