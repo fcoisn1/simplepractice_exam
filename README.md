@@ -13,8 +13,9 @@ The goal is to validate basic interaction flow
 
 Requirements:
 - Python -> 3.9.13
-- Chrome -> 140.0.7339.128   
+- Google Chrome Browser version -> 140.0.7339.128   
 - Selenium -> 4.35.0
+- Chromedriver version -> 140.0.7339.82
 
 Instructions:
 
